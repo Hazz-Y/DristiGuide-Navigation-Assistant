@@ -194,12 +194,7 @@ python -m pytest test_espnow_communication.py -v
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 👥 About the Team
 
-<p align="center">
-  <img src="assets/images/team-photo-with-project.png" width="45%" alt="Team Photo with Project" />
-  <img src="assets/images/team-photo-receiving-first-prize.png" width="45%" alt="Team Photo Receiving First Prize" />
-</p>
 
 ## 📜 License
 
