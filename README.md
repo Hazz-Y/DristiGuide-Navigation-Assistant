@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="assets/images/architecture.png" alt="DristiGuide System Overview" width="480"/>
+<img src="assets/images/drishtiguide_prototype.jpg" alt="DristiGuide Prototype Setup" width="600"/>
 
 <br><br>
 
@@ -124,6 +124,12 @@ In outdoor and complex indoor spaces, traditional navigation tools fall short of
 ## 🏗️ System Architecture
 
 DristiGuide utilizes a distributed four-tier computing model to run sensor aggregation, wireless telemetry, web serving, and computer vision model inference:
+
+<br>
+
+<img src="assets/images/architecture.png" alt="System Architecture Schematic" width="550"/>
+
+<br><br>
 
 ```
                   ┌─────────────────────────────────────────┐
